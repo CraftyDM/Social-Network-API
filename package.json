@@ -1,0 +1,16 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "nosql/express app. challenge 18.",
+  "main": "server.js",
+  "dependencies": {
+    "express":"4.18.2",
+    "mongoose": "6.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Amberlie Arave",
+  "license": "ISC"
+}
